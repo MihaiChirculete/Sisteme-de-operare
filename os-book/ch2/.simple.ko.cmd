@@ -1,0 +1,1 @@
+cmd_/home/mihai/Desktop/Facultate/An2/SisOp/os-book/ch2/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mihai/Desktop/Facultate/An2/SisOp/os-book/ch2/simple.ko /home/mihai/Desktop/Facultate/An2/SisOp/os-book/ch2/simple.o /home/mihai/Desktop/Facultate/An2/SisOp/os-book/ch2/simple.mod.o ;  true
